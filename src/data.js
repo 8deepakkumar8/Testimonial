@@ -1,10 +1,10 @@
 const reviews = [
   {
     id: 1,
-    name: "Pranay Gupta",
-    job: "Software Engineer",
-    image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+    name: "Deepak Gupta",
+    job: "Software Engineer and Web developer",
+    image: "https://avatars.githubusercontent.com/u/122639351?v=4",
+    text: "I am glad with to work with this fantastic Team, and we acchieved postive results, it wouldn't have been possible without the hard work and dedication of the entire team. Thank you for your exceptional work!",
   },
   {
     id: 2,
@@ -15,10 +15,10 @@ const reviews = [
   },
   {
     id: 3,
-    name: "Soumya Banerjee",
-    job: "Marketing Manager",
-    image: "https://aeccc.targettechnology.in/static/media/SoumyaBanerjee.2e2521d6029842435080.jpg",
-    text: "I am thrilled with the results of our recent marketing campaign, and it wouldn't have been possible without the hard work and dedication of the entire team. Thank you for your exceptional work!",
+    name: "Pranay Gupta",
+    job: "Software Engineer",
+    image: "https://avatars.githubusercontent.com/u/64855541?v=4",
+    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
   },
   {
     id: 4,
